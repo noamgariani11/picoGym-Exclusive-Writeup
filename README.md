@@ -4,7 +4,7 @@ Solutions to the picoGym Exclusive challenges.
 
 # Web Exploitation
 
-* [JAuth](https://github.com/noamgariani11/picoGym-Exclusive/blob/main/Web%20Exploitation/JAuth.md)
+* [JAuth](https://github.com/noamgariani11/picoGym-Exclusive-Writeup/blob/main/Web%20Exploitation/JAuth.md)
 
 # Reverse Engineering
 
